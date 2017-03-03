@@ -1,0 +1,16 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="hello_wolrd">Hello world</string>
+    <string name="action_settings">Settings</string>
+
+    <!--&lt;!&ndash; Header text for the list of toppings [CHAR LIMIT = 20] &ndash;&gt;-->
+    <!--<string name="toppings">Toppings</string>-->
+
+    <!--&lt;!&ndash; Thank you message for the order summary&ndash;&gt;-->
+    <!--<string name="thank_you">Thank You!</string>-->
+
+    <!--&lt;!&ndash;-->
+        <!--Name for the order summary. It will be shown in the format of "Name: Anmy" where Amy is the-->
+        <!--user's name.&ndash;&gt;-->
+    <!--<string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>-->
+</resources>
